@@ -16,7 +16,7 @@ const Contact = () => {
             </p>
             <p>
               <a href="mailto:Connect@electrowander.online?subject=1:1Meeting&body=Hi Kirti," target="_blank" data-cursor="disable">
-                Mail Me
+                Connect with us
               </a>
             </p>
             <h4>Education</h4>
@@ -89,7 +89,7 @@ const Contact = () => {
               Designed, Developed and Managed <br /> by <span>Kirti Ranjan Behera</span>
             </h2>
             <h5>
-              <MdCopyright /> {new Date().getFullYear()} Electrowander <h4>All rights reserved.</h4>
+              <MdCopyright /> {new Date().getFullYear()} Electrowander<h4>All rights reserved.</h4>
             </h5>
           </div>
         </div>
